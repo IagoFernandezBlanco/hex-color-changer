@@ -26,5 +26,5 @@ boton.addEventListener("click", ()=>{
     Console log para comprobar que funciona el listener
     console.log("Hola")
     */
-   document.body.style.background = random_hex_color_code();
+   document.body.style.background = color_hexadecimal_aleatorio();
 })
